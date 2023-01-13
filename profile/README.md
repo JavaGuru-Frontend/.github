@@ -1,2 +1,3 @@
-Hi | Sveiki | Привет |
+<h1 align="center">Приветствую 👋</h1>
+
 
